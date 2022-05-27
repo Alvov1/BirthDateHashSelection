@@ -1,4 +1,4 @@
-# EtheriumHashSelection
+# BirthDateHashSelection
 A program that determines the exact date of birth of a student, based on the SHA-3 hash function result and the year student he was born.
 
 Receives two lines on input:
